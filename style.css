@@ -68,5 +68,8 @@ a:hover, a:focus {
     border-radius:50%;
 }
 
+.my_bg{
+    background-image: url("../");
+    background-repeat: no-repeat;
 
 
