@@ -73,5 +73,6 @@ a:hover, a:focus {
     background-repeat: no-repeat;
     background-size: auto 500px;
     background-position: left top, right top, center top;
+    opacity: 0.5;
 
 }
