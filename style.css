@@ -69,7 +69,7 @@ a:hover, a:focus {
 }
 
 .my_bg{
-    background-image: url("./img/group.JPG"), url("./img/students.JPG"), url("./img/dinner1.JPG") ;
+    background-image: url("./img/group.JPG"), url("./img/students.png"), url("./img/dinner1.JPG") ;
     background-repeat: no-repeat;
     background-size: auto 500px;
     background-position: left top, right top, center top;
